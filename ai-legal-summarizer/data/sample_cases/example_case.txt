@@ -1,0 +1,23 @@
+This file contains a sample legal case document that can be used for testing the summarizer functionality.
+
+**Case Title:** State vs. John Doe
+
+**Court:** Supreme Court of India
+
+**Date:** 15th March 2023
+
+**Citation:** (2023) 5 SCC 123
+
+**Facts of the Case:**
+John Doe was accused of theft under Section 378 of the Indian Penal Code. The prosecution argued that he was found in possession of stolen goods, which were identified by the victim. The defense claimed that John was not present at the scene of the crime and that the evidence was circumstantial.
+
+**Issues:**
+1. Whether the evidence presented by the prosecution is sufficient to establish guilt beyond a reasonable doubt.
+2. Whether the defense's argument holds merit in light of the evidence.
+
+**Judgment:**
+The Supreme Court held that the prosecution failed to prove its case beyond a reasonable doubt. The circumstantial evidence was not strong enough to convict John Doe, and thus he was acquitted of all charges.
+
+**Key Takeaways:**
+- The importance of establishing guilt beyond a reasonable doubt in criminal cases.
+- The role of circumstantial evidence in legal proceedings.
